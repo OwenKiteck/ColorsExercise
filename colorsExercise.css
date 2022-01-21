@@ -1,0 +1,38 @@
+
+h1 {
+    color: rgb(72, 32, 83);
+    background-color: red;
+}
+h2 {
+    color: rgb(58, 28, 102);
+    background-color: #FF8800;
+}
+h3 {
+    color: rgb(43, 43, 121);
+    background-color: #ff0;
+}
+h4 {
+    color: rgb(40, 94, 40);
+    background-color: #00FF00FF;
+}
+h5 {
+    color: rgb(255, 255, 0);
+    background-color: #00ff;
+}
+h6 {
+    color: #ff8800;
+    background-color: rgb(100, 0, 255);
+}
+p {
+    color: rgb(90, 14, 14);
+    background-color: rgb(200, 0, 255, 1);
+}
+#hotpink {
+    color: hotpink;
+}
+#peachpuff {
+    background-color: peachpuff;
+}
+.border {
+    border: solid 5px green;
+}
